@@ -1,0 +1,5 @@
+{
+//this tells eslint to go and find this dependency that we installed inside the node module directory
+"extends": "rallycoding"
+
+}
